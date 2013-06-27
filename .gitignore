@@ -15,6 +15,6 @@
 /tmp
 
 # Ignore project files
-/ .sublime*
-/ .ruby-version
-/ .ruby-gemset
+/.sublime*
+/.ruby-version
+/.ruby-gemset
